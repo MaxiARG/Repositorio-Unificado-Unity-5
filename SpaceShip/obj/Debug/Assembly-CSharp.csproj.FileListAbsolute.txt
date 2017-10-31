@@ -1,0 +1,40 @@
+C:\Users\Maxi\Documents\SpaceShip\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Maxi\Documents\SpaceShip\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Maxi\Documents\SpaceShip\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Maxi\Documents\SpaceShip\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Maxi\Documents\SpaceShip\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Maxi\Documents\SpaceShip\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Maxi\Documents\SpaceShip\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Maxi\Documents\SpaceShip\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Maxi\Documents\SpaceShip\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Maxi\Documents\SpaceShip\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Maxi\Documents\SpaceShip\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Maxi\Documents\SpaceShip\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Maxi\Documents\SpaceShip\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Maxi\Documents\SpaceShip\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Maxi\Documents\SpaceShip\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Maxi\Documents\SpaceShip\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Maxi\Documents\SpaceShip\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Maxi\Documents\SpaceShip\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Maxi\Documents\SpaceShip\obj\Debug\Assembly-CSharp.dll
+C:\Users\Maxi\Documents\SpaceShip\obj\Debug\Assembly-CSharp.pdb
+D:\Unity 5\Unity Repo\SpaceShip\Temp\bin\Debug\Assembly-CSharp.dll
+D:\Unity 5\Unity Repo\SpaceShip\Temp\bin\Debug\Assembly-CSharp.pdb
+D:\Unity 5\Unity Repo\SpaceShip\Temp\bin\Debug\UnityEditor.dll
+D:\Unity 5\Unity Repo\SpaceShip\Temp\bin\Debug\UnityEngine.dll
+D:\Unity 5\Unity Repo\SpaceShip\Temp\bin\Debug\UnityEngine.Networking.dll
+D:\Unity 5\Unity Repo\SpaceShip\Temp\bin\Debug\UnityEngine.UI.dll
+D:\Unity 5\Unity Repo\SpaceShip\Temp\bin\Debug\Mono.Cecil.dll
+D:\Unity 5\Unity Repo\SpaceShip\Temp\bin\Debug\Unity.SerializationLogic.dll
+D:\Unity 5\Unity Repo\SpaceShip\Temp\bin\Debug\Unity.DataContract.dll
+D:\Unity 5\Unity Repo\SpaceShip\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+D:\Unity 5\Unity Repo\SpaceShip\Temp\bin\Debug\Unity.UNetWeaver.dll
+D:\Unity 5\Unity Repo\SpaceShip\Temp\bin\Debug\Unity.CecilTools.dll
+D:\Unity 5\Unity Repo\SpaceShip\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+D:\Unity 5\Unity Repo\SpaceShip\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+D:\Unity 5\Unity Repo\SpaceShip\Temp\bin\Debug\UnityEngine.xml
+D:\Unity 5\Unity Repo\SpaceShip\Temp\bin\Debug\UnityEditor.xml
+D:\Unity 5\Unity Repo\SpaceShip\Temp\bin\Debug\UnityEngine.UI.xml
+D:\Unity 5\Unity Repo\SpaceShip\Temp\bin\Debug\UnityEngine.Networking.xml
+D:\Unity 5\Unity Repo\SpaceShip\obj\Debug\Assembly-CSharp.dll
+D:\Unity 5\Unity Repo\SpaceShip\obj\Debug\Assembly-CSharp.pdb
